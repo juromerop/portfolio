@@ -12,7 +12,7 @@ function AboutMe() {
         <Grid md={12}>
           <PhotoAboutMe />
         </Grid>
-        <Grid md={6}>
+        <Grid md={11}>
           <InformationAboutMe />
         </Grid>
       </Grid>
