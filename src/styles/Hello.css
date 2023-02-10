@@ -21,5 +21,20 @@ h4 {
 }
 .grid {
   position: absolute;
-  top: 30%;
+  top: 25%;
+}
+.mainPhoto {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 20%;
+}
+.HeyItem {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  /* align-items: center; */
+  flex-direction: column;
+  align-self: center;
 }
